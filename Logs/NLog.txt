@@ -1,0 +1,60 @@
+2022-07-12 12:14:35.8286 Info Message Template Auto Format enabled
+2022-07-12 12:14:35.8589 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 12:14:35.8793 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 12:14:35.8793 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 12:14:35.9729 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 12:17:12.2301 Info Message Template Auto Format enabled
+2022-07-12 12:17:12.2975 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 12:17:12.3225 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 12:17:12.3295 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 12:17:12.4446 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 12:23:22.0640 Info Message Template Auto Format enabled
+2022-07-12 12:23:22.1098 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 12:23:22.1348 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 12:23:22.1348 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 12:23:22.2843 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 12:25:39.7511 Info Message Template Auto Format enabled
+2022-07-12 12:25:39.7917 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 12:25:39.8091 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 12:25:39.8152 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 12:25:39.9210 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 12:28:21.0025 Info Message Template Auto Format enabled
+2022-07-12 12:28:21.0287 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 12:28:21.0492 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 12:28:21.0492 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 12:28:21.1762 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 12:40:02.1003 Info Message Template Auto Format enabled
+2022-07-12 12:40:02.1393 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 12:40:02.1566 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 12:40:02.1566 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 12:40:02.2510 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 12:43:31.0087 Info Message Template Auto Format enabled
+2022-07-12 12:43:31.0396 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 12:43:31.0565 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 12:43:31.0565 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 12:43:31.1861 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 13:29:07.2722 Info Message Template Auto Format enabled
+2022-07-12 13:29:07.3423 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 13:29:07.3635 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 13:29:07.3635 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 13:29:07.4684 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 13:32:09.1325 Info Message Template Auto Format enabled
+2022-07-12 13:32:09.1673 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 13:32:09.1888 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 13:32:09.1888 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 13:32:09.2933 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 13:39:09.9515 Info Message Template Auto Format enabled
+2022-07-12 13:39:09.9759 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 13:39:09.9920 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 13:39:09.9920 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 13:39:10.0891 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 13:42:13.3075 Info Message Template Auto Format enabled
+2022-07-12 13:42:13.3491 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 13:42:13.3700 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 13:42:13.3700 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 13:42:13.4933 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config
+2022-07-12 13:45:11.3755 Info Message Template Auto Format enabled
+2022-07-12 13:45:11.4058 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2022-07-12 13:45:11.4251 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-info' not found for logging rule: *.
+2022-07-12 13:45:11.4251 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'file-debug' not found for logging rule: *.
+2022-07-12 13:45:11.5400 Info Validating config: Targets=0, ConfigItems=2, FilePath=C:\Users\Алиса\source\repos\BdAirport\BdAirport\bin\Debug\net5.0\Nlog.config

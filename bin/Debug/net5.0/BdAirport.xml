@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BdAirport</name>
+    </assembly>
+    <members>
+        <member name="M:BdAirport.Controllers.AircraftController.ReadList">
+            <summary>
+            Получить список самолётов
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AircraftController.Read(System.Int32)">
+            <summary>
+            Получить самолёт по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AircraftController.Create(BdAirport.Bd.AircraftCreate)">
+            <summary>
+            Добавить самолёт
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AircraftController.Update(BdAirport.Bd.AircraftUpdate)">
+            <summary>
+            Изменить самолёт
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AircraftController.Delete(System.Int32)">
+            <summary>
+            Удалить самолёт по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AirlineController.ReadList">
+            <summary>
+            Получить список авиакомпаний
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AirlineController.Read(System.Int32)">
+            <summary>
+            Получить авиакомпанию по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AirlineController.Create(BdAirport.Bd.AirlineCreate)">
+            <summary>
+            Добавить авиакомпанию
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AirlineController.Update(BdAirport.Bd.Airline)">
+            <summary>
+            Изменить авиакомпанию
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.AirlineController.Delete(System.Int32)">
+            <summary>
+            Удалить авиакомпанию по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.BookingTicketController.ReadList">
+            <summary>
+            Получить список забронированных билетов
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.BookingTicketController.Read(System.Int32)">
+            <summary>
+            Получить бронь билета по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.BookingTicketController.Create(BdAirport.Bd.BookingTicketCreate)">
+            <summary>
+            Добавить бронь билета
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.BookingTicketController.Update(BdAirport.Bd.BookingTicketUpdate)">
+            <summary>
+            Изменить бронь билета
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.BookingTicketController.Delete(System.Int32)">
+            <summary>
+            Удалить бронь билета по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.CrewController.ReadList">
+            <summary>
+            Получить список экипажей
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.CrewController.Read(System.Int32)">
+            <summary>
+            Получить экипаж по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.CrewController.Create(BdAirport.Bd.CrewCreate)">
+            <summary>
+            Добавить экипаж
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.CrewController.Update(BdAirport.Bd.CrewUpdate)">
+            <summary>
+            Изменить экипаж
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.CrewController.Delete(System.Int32)">
+            <summary>
+            Удалить экипаж по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.EmployeeController.ReadList">
+            <summary>
+            Получить список сотрудников
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.EmployeeController.Read(System.Int32)">
+            <summary>
+            Получить сотрудника по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.EmployeeController.Create(BdAirport.Bd.EmployeeCreate)">
+            <summary>
+            Добавить сотрудника
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.EmployeeController.Update(BdAirport.Bd.EmployeeUpdate)">
+            <summary>
+            Изменить сотрудника
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.EmployeeController.Delete(System.Int32)">
+            <summary>
+            Удалить пассажира по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.FlightController.ReadList">
+            <summary>
+            Получить список рейсов
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.FlightController.Read(System.Int32)">
+            <summary>
+            Получить рейс по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.FlightController.Create(BdAirport.Bd.FlightCreate)">
+            <summary>
+            Добавить рейс
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.FlightController.Update(BdAirport.Bd.FlightUpdate)">
+            <summary>
+            Изменить рейс
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.FlightController.Delete(System.Int32)">
+            <summary>
+            Удалить рейс по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PassengerController.ReadList">
+            <summary>
+            Получить список пассажиров
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PassengerController.Read(System.Int32)">
+            <summary>
+            Получить пассажира по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PassengerController.Create(BdAirport.Bd.PassengerCreate)">
+            <summary>
+            Добавить пассажира
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PassengerController.Update(BdAirport.Bd.PassengerUpdate)">
+            <summary>
+            Изменить пассажира
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PassengerController.Delete(System.Int32)">
+            <summary>
+            Удалить пассажира по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PersonController.ReadList">
+            <summary>
+            Получить список людей
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PersonController.Read(System.Int32)">
+            <summary>
+            Получить человека по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PersonController.Create(BdAirport.Bd.PersonCreate)">
+            <summary>
+            Добавить человека
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PersonController.Update(BdAirport.Bd.Person)">
+            <summary>
+            Изменить человека
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PersonController.Delete(System.Int32)">
+            <summary>
+            Удалить человека по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PostController.ReadList">
+            <summary>
+            Получить список должностей
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PostController.Read(System.Int32)">
+            <summary>
+            Получить должность по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PostController.Create(BdAirport.Bd.PostCreate)">
+            <summary>
+            Добавить должность
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PostController.Update(BdAirport.Bd.Post)">
+            <summary>
+            Изменить должность
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.PostController.Delete(System.Int32)">
+            <summary>
+            Удалить должность по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.TicketController.ReadList">
+            <summary>
+            Получить список билетов
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.TicketController.Read(System.Int32)">
+            <summary>
+            Получить билет по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.TicketController.Create(BdAirport.Bd.TicketCreate)">
+            <summary>
+            Добавить билет
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.TicketController.Update(BdAirport.Bd.TicketUpdate)">
+            <summary>
+            Изменить билет
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.TicketController.Delete(System.Int32)">
+            <summary>
+            Удалить билет по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDepartureController.ReadList">
+            <summary>
+            Получить список аэропортов отправления
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDepartureController.Read(System.Int32)">
+            <summary>
+            Получить аэропорт отправления по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDepartureController.Create(BdAirport.Bd.АirportDepartureCreate)">
+            <summary>
+            Добавить аэропорт отправления
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDepartureController.Update(BdAirport.Bd.АirportDeparture)">
+            <summary>
+            Изменить аэропорт отправления
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDepartureController.Delete(System.Int32)">
+            <summary>
+            Удалить аэропорт отправления по Id 
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDestinationController.ReadList">
+            <summary>
+            Получить список аэропортов назначения
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDestinationController.Read(System.Int32)">
+            <summary>
+            Получить аэропорт назначения по Id
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDestinationController.Create(BdAirport.Bd.АirportDestinationCreate)">
+            <summary>
+            Добавить аэропорт назначения
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDestinationController.Update(BdAirport.Bd.АirportDestination)">
+            <summary>
+            Изменить аэропорт назначения
+            </summary>
+        </member>
+        <member name="M:BdAirport.Controllers.АirportDestinationController.Delete(System.Int32)">
+            <summary>
+            Удалить аэропорт назначения по Id
+            </summary>
+        </member>
+    </members>
+</doc>
